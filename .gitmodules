@@ -1,3 +1,6 @@
 [submodule "blogs/lookml_pipeline_dashboard"]
 	path = blogs/lookml_pipeline_dashboard
 	url = git@github.com:pandohansamuel19/lookml_pipeline_dashboard.git
+[submodule "swe_python"]
+	path = swe_python
+	url = git@github.com:pandohansamuel19/swe_python.git
