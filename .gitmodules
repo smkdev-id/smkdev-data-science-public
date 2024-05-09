@@ -1,0 +1,3 @@
+[submodule "blogs/lookml_pipeline_dashboard"]
+	path = blogs/lookml_pipeline_dashboard
+	url = git@github.com:pandohansamuel19/lookml_pipeline_dashboard.git
