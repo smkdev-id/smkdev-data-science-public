@@ -4,3 +4,9 @@
 [submodule "swe_python"]
 	path = swe_python
 	url = git@github.com:pandohansamuel19/swe_python.git
+[submodule "codelabs/lookml_pipeline_dashboard"]
+	path = codelabs/lookml_pipeline_dashboard
+	url = git@github.com:pandohansamuel19/lookml_pipeline_dashboard.git
+[submodule "codelabs/flaskflow"]
+	path = codelabs/flaskflow
+	url = git@github.com:pandohansamuel19/flaskflow.git
